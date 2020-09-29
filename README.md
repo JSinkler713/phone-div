@@ -2,4 +2,4 @@
 
 A quick html/css phone div.
 
-A [running](https://jsinkler713.github.io/phone-div/){:target="_blank"=} version
+A <a href='https://jsinkler713.github.io/phone-div/' target="_blank">working</a> version

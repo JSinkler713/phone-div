@@ -37,6 +37,7 @@ body {
   background-color: #f1f1f1;
   margin-top: 60px;
   height: calc(100% - 120px);
+  width: 100%;
   overflow: hidden;
   overflow-y: scroll;
 }

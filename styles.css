@@ -2,6 +2,10 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  background-color: gray;
+}
+.dark-mode {
+    filter: invert(1) hue-rotate(180deg)
 }
 .phone {
   width: 375px;
